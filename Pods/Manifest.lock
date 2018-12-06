@@ -1,0 +1,16 @@
+PODS:
+  - hellohud3 (0.0.1)
+
+DEPENDENCIES:
+  - hellohud3
+
+SPEC REPOS:
+  https://github.com/longshanzhiyu/hellohud3.git:
+    - hellohud3
+
+SPEC CHECKSUMS:
+  hellohud3: fce39eb6ef0a95591f37d1cbdf2d05566966ed6b
+
+PODFILE CHECKSUM: 95c92635c61912e08a07c0c9c485d743ef122fd4
+
+COCOAPODS: 1.5.2
